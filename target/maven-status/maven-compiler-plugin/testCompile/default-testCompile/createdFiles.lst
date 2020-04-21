@@ -1,0 +1,7 @@
+br/com/wirecard/dto/AddressDto.class
+br/com/wirecard/dto/TaxDocument.class
+br/com/wirecard/helpers/FileHelper.class
+br/com/wirecard/dto/PessoaDto.class
+br/com/wirecard/runners/Runner.class
+br/com/wirecard/dto/TelefoneDto.class
+br/com/wirecard/stepDefs/StepDefinitions.class

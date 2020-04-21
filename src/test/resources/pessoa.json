@@ -1,0 +1,55 @@
+{
+    "ownId": "teste271",
+    "fullname": "Marilia Gabriela Pires Matos",
+    "email": "mariliagpm@hotmail.com",
+    "birthDate": "1992-06-11",
+    "taxDocument": {
+        "type": "CPF",
+        "number": "663.680.910-88"
+    },
+    "phone": {
+        "countryCode": "55",
+        "areaCode": "11",
+        "number": "22226842"
+    },
+    "shippingAddress": {
+        "city": "Rio de Janeiro",
+        "district": "Ipanema",
+        "street": "Avenida Atlântica",
+        "streetNumber": "60",
+        "zipCode": "02446000",
+        "state": "RJ",
+        "country": "BRA"
+    },
+    "fundingInstrument": {
+        "method": "CREDIT_CARD",
+        "creditCard": {
+            "expirationMonth": "06",
+            "expirationYear": "22",
+            "number": "6362970000457013",
+            "cvc": "123",
+            "holder": {
+                "fullname": "Maria Oliveira",
+                "birthdate": "1980-05-10",
+                "taxDocument": {
+                    "type": "CPF",
+                    "number": "10013390023"
+                },
+                "billingAddress": {
+                    "city": "Rio de Janeiro",
+                    "district": "Copacabana",
+                    "street": "Rua Raimundo Corrêa",
+                    "streetNumber": "1200",
+                    "zipCode": "05246200",
+                    "state": "RJ",
+                    "country": "BRA"
+                },
+                "phone": {
+                    "countryCode": "55",
+                    "areaCode": "11",
+                    "number": "22226842"
+                }
+            }
+        }
+    }
+}
